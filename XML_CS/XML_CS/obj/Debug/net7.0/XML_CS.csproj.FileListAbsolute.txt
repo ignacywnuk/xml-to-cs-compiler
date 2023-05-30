@@ -1,0 +1,45 @@
+C:\Studia semestr 7\ECOTE\XML_CS\XML_CS\bin\Debug\net7.0\XML_CS.exe
+C:\Studia semestr 7\ECOTE\XML_CS\XML_CS\bin\Debug\net7.0\XML_CS.deps.json
+C:\Studia semestr 7\ECOTE\XML_CS\XML_CS\bin\Debug\net7.0\XML_CS.runtimeconfig.json
+C:\Studia semestr 7\ECOTE\XML_CS\XML_CS\bin\Debug\net7.0\XML_CS.dll
+C:\Studia semestr 7\ECOTE\XML_CS\XML_CS\bin\Debug\net7.0\XML_CS.pdb
+C:\Studia semestr 7\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.csproj.AssemblyReference.cache
+C:\Studia semestr 7\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studia semestr 7\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.AssemblyInfoInputs.cache
+C:\Studia semestr 7\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.AssemblyInfo.cs
+C:\Studia semestr 7\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.csproj.CoreCompileInputs.cache
+C:\Studia semestr 7\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.dll
+C:\Studia semestr 7\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\refint\XML_CS.dll
+C:\Studia semestr 7\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.pdb
+C:\Studia semestr 7\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.genruntimeconfig.cache
+C:\Studia semestr 7\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\ref\XML_CS.dll
+C:\Users\Ignacy\Documents\XML_CS\XML_CS\bin\Debug\net7.0\XML_CS.exe
+C:\Users\Ignacy\Documents\XML_CS\XML_CS\bin\Debug\net7.0\XML_CS.deps.json
+C:\Users\Ignacy\Documents\XML_CS\XML_CS\bin\Debug\net7.0\XML_CS.runtimeconfig.json
+C:\Users\Ignacy\Documents\XML_CS\XML_CS\bin\Debug\net7.0\XML_CS.dll
+C:\Users\Ignacy\Documents\XML_CS\XML_CS\bin\Debug\net7.0\XML_CS.pdb
+C:\Users\Ignacy\Documents\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.csproj.AssemblyReference.cache
+C:\Users\Ignacy\Documents\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacy\Documents\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.AssemblyInfoInputs.cache
+C:\Users\Ignacy\Documents\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.AssemblyInfo.cs
+C:\Users\Ignacy\Documents\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.csproj.CoreCompileInputs.cache
+C:\Users\Ignacy\Documents\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.dll
+C:\Users\Ignacy\Documents\XML_CS\XML_CS\obj\Debug\net7.0\refint\XML_CS.dll
+C:\Users\Ignacy\Documents\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.pdb
+C:\Users\Ignacy\Documents\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.genruntimeconfig.cache
+C:\Users\Ignacy\Documents\XML_CS\XML_CS\obj\Debug\net7.0\ref\XML_CS.dll
+C:\Studia\ECOTE\XML_CS\XML_CS\bin\Debug\net7.0\XML_CS.exe
+C:\Studia\ECOTE\XML_CS\XML_CS\bin\Debug\net7.0\XML_CS.deps.json
+C:\Studia\ECOTE\XML_CS\XML_CS\bin\Debug\net7.0\XML_CS.runtimeconfig.json
+C:\Studia\ECOTE\XML_CS\XML_CS\bin\Debug\net7.0\XML_CS.dll
+C:\Studia\ECOTE\XML_CS\XML_CS\bin\Debug\net7.0\XML_CS.pdb
+C:\Studia\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.csproj.AssemblyReference.cache
+C:\Studia\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studia\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.AssemblyInfoInputs.cache
+C:\Studia\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.AssemblyInfo.cs
+C:\Studia\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.csproj.CoreCompileInputs.cache
+C:\Studia\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.dll
+C:\Studia\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\refint\XML_CS.dll
+C:\Studia\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.pdb
+C:\Studia\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\XML_CS.genruntimeconfig.cache
+C:\Studia\ECOTE\XML_CS\XML_CS\obj\Debug\net7.0\ref\XML_CS.dll
