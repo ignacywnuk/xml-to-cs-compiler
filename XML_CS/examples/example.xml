@@ -1,7 +1,0 @@
-
-<root>
-    <mushroom_picker Name="Ignacy" mushrooms_picked="100"/>
-    <mushrooms>
-            <mushroom Name="Borownik" edible="yes"/>
-    </mushrooms>
-</root>
